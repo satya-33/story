@@ -1,0 +1,4 @@
+cmd for git version control
+"ls -a" to see hidden files
+"git status" to see untrack files
+ 
