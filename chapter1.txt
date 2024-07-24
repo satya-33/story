@@ -1,4 +1,6 @@
 cmd for git version control
 "ls -a" to see hidden files
 "git status" to see untrack files
- 
+" git add filename" to add for tracking 
+"git commit -m "commited change "" for comminting the change
+"git log" for see the information about the commit 
