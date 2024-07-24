@@ -8,3 +8,4 @@ cmd for git version control
 " git checkout filename" to undo and go to previous version
 "git remote add origin https://github.com/satya-33/story.git" 
 "git push -u origin main" 
+"touch .gitignore"
