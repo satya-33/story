@@ -4,3 +4,5 @@ cmd for git version control
 " git add filename" & "git add . " to add for tracking 
 "git commit -m "commited change "" for comminting the change
 "git log" for see the information about the commit 
+"git diff filename " to see difference in between current and previous 
+" git checkout filename" to undo and go to previous version
