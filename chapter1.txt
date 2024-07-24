@@ -6,3 +6,5 @@ cmd for git version control
 "git log" for see the information about the commit 
 "git diff filename " to see difference in between current and previous 
 " git checkout filename" to undo and go to previous version
+"git remote add origin https://github.com/satya-33/story.git" 
+"git push -u origin main" 
